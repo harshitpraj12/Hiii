@@ -1,1 +1,3 @@
 This is my first page to use git
+hello this is second change.
+do you want to learn something else.
